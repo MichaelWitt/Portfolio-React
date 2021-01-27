@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from 'components/layout'
-import HeroPersonal from 'sections/hero/HeroPersonal.js'
+import HeroPersonalVideo from 'sections/hero/HeroPersonalVideo.js'
 import AboutPersonal from 'sections/about/AboutPersonal.js'
 import ServicesThree from 'sections/services/ServicesThree.js'
 import PortfolioThree from 'sections/portfolio/PortfolioThree.js'
@@ -22,11 +22,11 @@ class Index extends React.Component {
           <title>{site.meta.title}</title>
           <meta name="description" content={site.meta.description} />
         </Helmet>
-        <Layout
+        <Layout 
           isHome={true}
           sections={['home', 'about', 'services', 'portfolio', 'testimonials', 'clients', 'contact']}
         >
-          <HeroPersonal />
+          <HeroPersonalVideo />
           <AboutPersonal />
           <ServicesThree />
           <PortfolioThree />
@@ -41,7 +41,7 @@ class Index extends React.Component {
 
 export default Index
 
-export const personalQuery = graphql`
+export const personalVideoQuery = graphql`
   query {
     site {
       meta: siteMetadata {

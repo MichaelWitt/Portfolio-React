@@ -201,7 +201,7 @@ class HeroPersonalVideo extends React.Component {
           <HeadingBox className="parallax-hero-item animate">
             <SubHeading className="parallax-hero-item">Hello, I'm</SubHeading>
             <Heading className="parallax-hero-item">
-              <Glitch text="Michael W." />
+              <Glitch text="Michael" />
             </Heading>
             <Type className="parallax-hero-item">
               <Typewriter
