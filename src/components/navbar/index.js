@@ -147,7 +147,7 @@ class Navbar extends React.Component {
       >
         <NavbarContainer>
           <LogoWrapper className="logo">
-            <Logo src="/logo.png" alt="logo" />
+            <Logo src="./logo.png" alt="logo" />
           </LogoWrapper>
           <Toggler
             onClick={() => this.collapseNav()}
