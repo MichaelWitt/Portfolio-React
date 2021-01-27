@@ -1,64 +1,61 @@
 module.exports = {
   siteMetadata: {
-    title: 'Abstract - Creative Agency Personal Portfolio Template',
+    title: "Abstract - Creative Agency Personal Portfolio Template",
     description:
-      'Abstract is a beautiful template built using React and Gatsby for creative agency or personal projects',
+      "Abstract is a beautiful template built using React and Gatsby for creative agency or personal projects",
   },
-  pathPrefix: '/',
+  pathPrefix: "/Portfolio-React",
   plugins: [
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/content/images/`,
-        name: 'images',
+        name: "images",
       },
     },
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-images',
+            resolve: "gatsby-remark-images",
           },
           {
-            resolve: 'gatsby-remark-responsive-iframe',
+            resolve: "gatsby-remark-responsive-iframe",
           },
-          'gatsby-remark-prismjs',
-          'gatsby-remark-copy-linked-files',
-          'gatsby-remark-smartypants',
+          "gatsby-remark-prismjs",
+          "gatsby-remark-copy-linked-files",
+          "gatsby-remark-smartypants",
         ],
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/content/portfolio/`,
-        name: 'portfolio',
+        name: "portfolio",
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/content/testimonials/`,
-        name: 'testimonials',
+        name: "testimonials",
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/content/team/`,
-        name: 'team',
+        name: "team",
       },
     },
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [
-          `Teko`,
-          `Poppins\:300,400,500,600,700`
-        ],
-        display: 'swap'
-      }
+        fonts: [`Teko`, `Poppins\:300,400,500,600,700`],
+        display: "swap",
+      },
     },
     {
       resolve: `gatsby-plugin-styled-components`,
@@ -69,9 +66,9 @@ module.exports = {
         ssr: true,
       },
     },
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sass",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
   ],
-}
+};
