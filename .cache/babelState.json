@@ -7,17 +7,6 @@
           "options": {}
         },
         {
-          "name": "babel-plugin-styled-components",
-          "stage": "develop",
-          "options": {
-            "plugins": [],
-            "minify": false,
-            "transpileTemplateLiterals": false,
-            "pure": false,
-            "ssr": false
-          }
-        },
-        {
           "name": "/Users/annemacozmoz/Desktop/Coding/Homework/homework20-Portfolio-React/Portfolio-React/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
@@ -63,17 +52,6 @@
         {
           "name": "/Users/annemacozmoz/Desktop/Coding/Homework/homework20-Portfolio-React/Portfolio-React/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
-        },
-        {
-          "name": "babel-plugin-styled-components",
-          "stage": "develop-html",
-          "options": {
-            "plugins": [],
-            "minify": false,
-            "transpileTemplateLiterals": false,
-            "pure": false,
-            "ssr": false
-          }
         }
       ],
       "presets": [
@@ -109,17 +87,6 @@
         {
           "name": "/Users/annemacozmoz/Desktop/Coding/Homework/homework20-Portfolio-React/Portfolio-React/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
-        },
-        {
-          "name": "babel-plugin-styled-components",
-          "stage": "build-html",
-          "options": {
-            "plugins": [],
-            "minify": false,
-            "transpileTemplateLiterals": false,
-            "pure": false,
-            "ssr": true
-          }
         }
       ],
       "presets": [
@@ -155,17 +122,6 @@
         {
           "name": "/Users/annemacozmoz/Desktop/Coding/Homework/homework20-Portfolio-React/Portfolio-React/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
-        },
-        {
-          "name": "babel-plugin-styled-components",
-          "stage": "build-javascript",
-          "options": {
-            "plugins": [],
-            "minify": false,
-            "transpileTemplateLiterals": false,
-            "pure": false,
-            "ssr": true
-          }
         }
       ],
       "presets": [
