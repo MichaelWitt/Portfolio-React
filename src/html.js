@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 export default class HTML extends React.Component {
   render() {
     return (
@@ -12,7 +12,7 @@ export default class HTML extends React.Component {
           {this.props.headComponents}
           <link href="/img/favicon.ico" rel="icon" />
         </head>
-        <body style={{ backgroundColor: '#000' }}>
+        <body style={{ backgroundColor: "#000" }}>
           <div
             id="___gatsby"
             dangerouslySetInnerHTML={{ __html: this.props.body }}
@@ -20,6 +20,6 @@ export default class HTML extends React.Component {
           {this.props.postBodyComponents}
         </body>
       </html>
-    )
+    );
   }
 }
