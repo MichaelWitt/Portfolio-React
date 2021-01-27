@@ -107,25 +107,25 @@ class Navbar extends React.Component {
       }
     `;
 
-    // const LogoWrapper = styled.div`
-    //   flex: 0 0 20%;
-    //   max-width: 20%;
-    //   display: flex;
-    //   justify-content: flex-start;
-    //   align-items: center;
-    //   @media (max-width: 500px) {
-    //     flex: 0 0 100%;
-    //     max-width: 100%;
-    //     justify-content: center;
-    //   }
-    // `;
+    const LogoWrapper = styled.div`
+      flex: 0 0 20%;
+      max-width: 20%;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      @media (max-width: 500px) {
+        flex: 0 0 100%;
+        max-width: 100%;
+        justify-content: center;
+      }
+    `;
 
-    // const Logo = styled.img`
-    //   height: 40px;
-    //   @media (max-width: 1023px) {
-    //     height: 30px;
-    //   }
-    // `;
+    const Logo = styled.img`
+      height: 40px;
+      @media (max-width: 1023px) {
+        height: 30px;
+      }
+    `;
 
     const NavInner = styled.div`
       justify-content: flex-end;
@@ -146,9 +146,9 @@ class Navbar extends React.Component {
         className={`header${this.state.sticky === true ? " sticky" : ""}`}
       >
         <NavbarContainer>
-          {/* <LogoWrapper className="logo">
-                        <Logo src="/img/logo.png" alt="logo" />
-                    </LogoWrapper> */}
+          <LogoWrapper className="logo">
+            <Logo src="/img/logo.png" alt="logo" />
+          </LogoWrapper>
           <Toggler
             onClick={() => this.collapseNav()}
             className="navbar-toggler navbar-toggler-right"
