@@ -12,7 +12,7 @@ import Contact from "../elements/contact/contact";
 
 const Index = () => (
   <Layout>
-    <SEO title="Waxon" />
+    <SEO title="Michael Wittorp" />
     <Banner />
     <About />
     <Service />
@@ -24,5 +24,5 @@ const Index = () => (
     <BlogPost />
     <Contact />
   </Layout>
-)
+);
 export default Index;
