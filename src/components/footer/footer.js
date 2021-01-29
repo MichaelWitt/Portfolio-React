@@ -80,7 +80,10 @@ const Footer = ({ showBelow }) => {
               <div className="ft-info">
                 <ul className="social-share">
                   <li>
-                    <a href="https://www.linkedin.com/in/michaelwittorp/">
+                    <a
+                      href="https://www.linkedin.com/in/michaelwittorp/"
+                      target="_blank"
+                    >
                       <FaLinkedinIn />
                     </a>
                   </li>

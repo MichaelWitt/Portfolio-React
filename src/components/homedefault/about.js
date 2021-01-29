@@ -101,6 +101,7 @@ const About = () => {
                       data-wow-delay="200ms"
                       data-wow-duration="1000ms"
                       href="https://drive.google.com/file/d/1Xj9r_nkqot0qPXVusLjpBzIQEFUF3P8Z/view?usp=sharing"
+                      target="_blank"
                     >
                       <span>{downloadButton}</span>
                     </a>
