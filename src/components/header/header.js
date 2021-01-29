@@ -61,12 +61,12 @@ const Header = () => {
                 <div className="menu_wrapper">
                   <Scrollspy
                     className="mainmenuwrapper"
-                    items={["home", "about", "portfolio", "news", "contact"]}
+                    items={["home", "about", "portfolio", "contact"]}
                     currentClassName="is-current"
                     offset={-200}
                   >
                     <li>
-                      <a className="menu-hover-link" href="/#home">
+                      <a className="menu-hover-link" href="#home">
                         <span className="hover-item">
                           <span data-text="Home">Home</span>
                         </span>
@@ -74,7 +74,7 @@ const Header = () => {
                     </li>
 
                     <li>
-                      <a className="menu-hover-link" href="/#about">
+                      <a className="menu-hover-link" href="#about">
                         <span className="hover-item">
                           <span data-text="About">About</span>
                         </span>
@@ -82,23 +82,23 @@ const Header = () => {
                     </li>
 
                     <li>
-                      <a className="menu-hover-link" href="/#portfolio">
+                      <a className="menu-hover-link" href="#portfolio">
                         <span className="hover-item">
                           <span data-text="Portfolio">Portfolio</span>
                         </span>
                       </a>
                     </li>
 
-                    <li>
+                    {/* <li>
                       <a className="menu-hover-link" href="/#news">
                         <span className="hover-item">
                           <span data-text="News">News</span>
                         </span>
                       </a>
-                    </li>
+                    </li> */}
 
                     <li>
-                      <a className="menu-hover-link" href="/#contact">
+                      <a className="menu-hover-link" href="#contact">
                         <span className="hover-item">
                           <span data-text="Contact">Contact</span>
                         </span>
