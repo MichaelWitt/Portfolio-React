@@ -48,10 +48,7 @@ const Contact = () => {
             data-wow-duration="1000ms"
           >
             <div className="info">
-              <p>
-                Please fill out the form on this section to contact with me. Or
-                call between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
-              </p>
+              <p>Thanks for stopping in! I can't wait to hear from you.</p>
             </div>
             <Contactform url={getform_url} />
           </div>
