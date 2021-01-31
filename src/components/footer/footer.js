@@ -40,10 +40,7 @@ const Footer = ({ showBelow }) => {
               data-wow-duration="0.1s"
             >
               <div className="ft-info">
-                <p>
-                  WAXON <br />
-                  PORTFOLIO TEMPLATE
-                </p>
+                <p>© Michael Wittorp</p>
               </div>
             </div>
             <div
@@ -52,10 +49,7 @@ const Footer = ({ showBelow }) => {
               data-wow-duration="0.2s"
             >
               <div className="ft-info">
-                <p>
-                  Rainbow 103, <br />
-                  0021 New York, USA
-                </p>
+                <p>Portfolio React</p>
               </div>
             </div>
             <div
@@ -64,11 +58,7 @@ const Footer = ({ showBelow }) => {
               data-wow-duration="0.4s"
             >
               <div className="ft-info">
-                <p>
-                  hi@waxon.com
-                  <br />
-                  +77 033 442 55 57
-                </p>
+                <p>Michaelwittcode@gmail.com</p>
               </div>
             </div>
 
