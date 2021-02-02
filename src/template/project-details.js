@@ -44,7 +44,7 @@ const ProjectDetails = ({ data }) => {
                           <li>
                             <span className="icon">
                               <FiInstagram />
-                              Images by:
+                              Link:
                             </span>
                             <span className="projectinfo">
                               {projectData.imgesBY}
