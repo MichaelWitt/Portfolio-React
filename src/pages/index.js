@@ -19,7 +19,6 @@ const Index = () => (
     <div className="portfolio-id" id="portfolio">
       <Project />
     </div>
-    <Contact />
   </Layout>
 );
 export default Index;
