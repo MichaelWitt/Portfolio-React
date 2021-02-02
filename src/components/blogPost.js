@@ -44,7 +44,7 @@ const BlogPost = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
-                        <div className="section-title mb--40">
+                        <div className="section-title">
                             <h2 className="title">Latest News <span className="bg">News</span></h2>
                         </div>
                     </div>

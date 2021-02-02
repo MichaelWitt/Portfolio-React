@@ -43,6 +43,8 @@ const Archive = ({data , pageContext}) => {
         </Layout>
     )
 }
+
+
 export const allauthorQueryData = graphql`
     query allauthorQuery($author: String!){
         allMarkdownRemark (

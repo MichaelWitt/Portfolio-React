@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import Banner from "../components/homedefault/banner";
+import BannerParticles from "../components/homedefault/bannerParticles";
 import About from "../components/homedefault/about";
 import Project from "../components/homedefault/project";
 import Testimonial from "../components/homedefault/testimonial";
@@ -10,16 +10,19 @@ import Brand from "../components/homedefault/brand";
 import BlogPost from "../components/blogPost";
 import Contact from "../elements/contact/contact";
 
-const Index = () => (
+const IndexPage = () => (
   <Layout>
-    <SEO title="Michael Wittorp" />
-    <Banner />
+    <SEO title="Waxon Home Particle" />
+    <BannerParticles />
     <About />
     <Service />
     <div className="portfolio-id" id="portfolio">
       <Project />
+      <Brand />
+      <Testimonial />
     </div>
+    <BlogPost />
     <Contact />
   </Layout>
-);
-export default Index;
+)
+export default IndexPage;

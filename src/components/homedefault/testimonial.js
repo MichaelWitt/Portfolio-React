@@ -54,7 +54,7 @@ const Testimonial = () => {
                                                 <div className="icon">
                                                     <FaQuoteRight />
                                                 </div>
-                                                <p>I can't believe I got support and my problem resolved in just minutes from posting my question. Simply amazing team and amazing theme! Thank you very much guys for excellent support! I can't believe I got support and my problem resolved in just minutes from posting my question. Simply amazing team and amazing theme! Thank you very much guys for excellent support! </p>
+                                                <p>I can't believe I got support and my problem resolved in just minutes from posting my question. Simply amazing team and amazing theme! Thank you very much guys for excellent support!I can't believe I got support and my problem resolved in just minutes from posting my question. Simply amazing team and amazing theme! Thank you very much guys for excellent support! </p>
                                                 <div className="client-info">
                                                     <div className="thumbnail">
                                                         <img src={testimonialTwo} alt="Testimonail Images" />
