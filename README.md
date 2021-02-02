@@ -12,18 +12,22 @@ I'm a UNC Chapel Hill Coding Bootcamp Student, NC State Public & Interpersonal C
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
+## Website
+
+View my portfolio at: https://michaelwitt.github.io/Portfolio-React/
+
+Preview: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/home.png)
+
 ## Build Details
 
-My portfolio was built using React, JavaScript, Gatsby, HTML, CSS, and more! I formatted and stylized the website to display my bio, skillset, experience, projects, and contact links.
+My portfolio was built using: React, JavaScript, Gatsby, HTML, CSS, and more! I formatted and stylized the website to display my bio, skillset, experience, projects, and contact links.
 
-## Website & Repository
-
-View the website at: https://michaelwitt.github.io/Portfolio-React/
+## Repository
 
 View the repository at: https://github.com/MichaelWitt/Portfolio-React/
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/Portfolio/images/website-mainpage.png)
-Website Bio: ![alt text](https://michaelwitt.github.io/Portfolio/images/website-bio.png) -->
+Bio: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/demo.png)
+Projects: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/portfolio.png)
 
 ## Updates
 
