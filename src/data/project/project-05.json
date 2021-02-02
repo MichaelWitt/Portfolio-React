@@ -1,23 +1,23 @@
 {
   "id": "project-05",
   "title": "Employee Stardirectory",
-  "category": "Design",
-  "client": "Arloko Corp",
-  "imgesBY": "Draxler",
+  "category": "React Database",
+  "client": "CZ Inc.",
+  "imgesBY": "Michael Wittorp",
   "year": "2009 - 2019",
   "featured_image": "./images/project-05.jpg",
   "is_featured": true,
   "body": [
-    "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+    "Welcome to the Employee Stardirectory! This application was developed and created for star companies near and far. Keep track of all the employees that work for your company in a slick, easy to use database, that catalogs crucial employee data. A search bar is included for high-functionality and performance, so as to find employees in an instance. The database even sorts users in ascending and descending order, depending on your desired output. We believe you are going to fall in love with the Employee Stardirectory. Thanks for stopping in! Site: https://michaelwitt.github.io/Employee-Stardirectory/ Github: https://github.com/MichaelWitt/Employee-Stardirectory"
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-02.jpg"
+      "image": "./images/project-05.jpg"
     },
     {
       "id": "feature-2",
-      "image": "./images/project-03.jpg"
+      "image": "./images/project-05.jpg"
     }
   ]
 }

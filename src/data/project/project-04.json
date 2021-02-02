@@ -1,23 +1,23 @@
 {
   "id": "project-04",
   "title": "Terbo Team",
-  "category": "Photography",
-  "client": "Arloko Corp",
-  "imgesBY": "Draxler",
+  "category": "Node Generator",
+  "client": "CZ Inc.",
+  "imgesBY": "Michael Wittorp",
   "year": "2009 - 2019",
   "featured_image": "./images/project-04.jpg",
   "is_featured": true,
   "body": [
-    "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+    "Welcome to Terbo-Team! Terbo-Team was created to help you display information about you and your code team! Your code team will help you get through the challenges in life, and should be displayed proudly for everyone to see, as buddies for life! Simply enter the required information for your team, and it will be displayed in a rapidly generated html file. Give it a shot! Thanks for stopping in! I look forward to working together to make the present and future a better place. Demo: https://youtu.be/2O2ftBC3l0E Github: https://github.com/MichaelWitt/Terbo-Team"
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-02.jpg"
+      "image": "./images/project-04.jpg"
     },
     {
       "id": "feature-2",
-      "image": "./images/project-03.jpg"
+      "image": "./images/project-04.jpg"
     }
   ]
 }

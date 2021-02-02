@@ -1,14 +1,14 @@
 {
   "id": "project-02",
   "title": "Just Pick",
-  "category": "Photography",
-  "client": "Arloko Corp",
-  "imgesBY": "Draxler",
+  "category": "API Food App",
+  "client": "CZ Inc.",
+  "imgesBY": "Michael Wittorp",
   "year": "2009 - 2019",
   "featured_image": "./images/project-02.jpg",
   "is_featured": true,
   "body": [
-    "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+    "Have you ever wanted to go out to eat but can't decide what you want for dinner? Just Pick! Just Pick is an application developed to help you decide what restaurant to eat at. Every time you click the button, a random restaurant is generated for you in your local area. Enjoy! App: https://michaelwitt.github.io/Just-Pick/ Github: https://github.com/MichaelWitt/Just-Pick"
   ],
   "features": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": "feature-2",
-      "image": "./images/project-03.jpg"
+      "image": "./images/project-02.jpg"
     }
   ]
 }
