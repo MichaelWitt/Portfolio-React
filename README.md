@@ -16,7 +16,7 @@ Thanks for stopping in! I look forward to working together to make the present a
 
 View my portfolio at: https://michaelwitt.github.io/Portfolio-React/
 
-Preview: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/home.png)
+Preview: ![alt text](./src/images/home.png)
 
 ## Build Details
 
@@ -26,8 +26,8 @@ My portfolio was built using: React, JavaScript, Gatsby, HTML, CSS, and more! I 
 
 View the repository at: https://github.com/MichaelWitt/Portfolio-React/
 
-Bio: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/demo.png)
-Projects: ![alt text](https://michaelwitt.github.io/Portfolio-React/src/images/portfolio.png)
+Bio: ![alt text](./src/images/demo.png)
+Projects: ![alt text](./src/images/portfolio.png)
 
 ## Updates
 
