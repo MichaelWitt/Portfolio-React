@@ -3,8 +3,7 @@
     "id": "main-banner",
     "title": "Michael <span class='color-primary'>Wittorp</span>",
     "subtitle": "Software Engineer & Web Developer",
-    "bgImage": "./project/images/bg-image-02.jpg",
-    "image": "./project/images/person-image.jpg"
+    "bgImage": "./project/images/bg-image-02.jpg"
   },
 
   {
