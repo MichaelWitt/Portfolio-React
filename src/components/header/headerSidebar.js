@@ -118,7 +118,7 @@ const HeaderNoSidebar = () => {
                 </a>
               </li>
 
-              {/* <li>
+              <li>
                 <a
                   className="menu-hover-link"
                   href="/#portfolio"
@@ -128,7 +128,7 @@ const HeaderNoSidebar = () => {
                     <span data-text="Portfolio">Portfolio</span>
                   </span>
                 </a>
-              </li> */}
+              </li>
 
               {/* <li>
                                 <a className="menu-hover-link" href="/#news" onClick={onMenuToggleClick}>
