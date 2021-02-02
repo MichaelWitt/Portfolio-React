@@ -2,18 +2,18 @@
   "id": "project-05",
   "title": "Employee Stardirectory",
   "category": "React Database",
-  "client": "CZ Inc.",
-  "imgesBY": "Michael Wittorp",
+  "client": "Michael Wittorp",
+  "imgesBY": "https://michaelwitt.github.io/Employee-Stardirectory/",
   "year": "2009 - 2019",
   "featured_image": "./images/project-05.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to the Employee Stardirectory! This application was developed and created for star companies near and far. Keep track of all the employees that work for your company in a slick, easy to use database, that catalogs crucial employee data. A search bar is included for high-functionality and performance, so as to find employees in an instance. The database even sorts users in ascending and descending order, depending on your desired output. We believe you are going to fall in love with the Employee Stardirectory. Thanks for stopping in! Site: https://michaelwitt.github.io/Employee-Stardirectory/ Github: https://github.com/MichaelWitt/Employee-Stardirectory"
+    "Welcome to the Employee Stardirectory! This application was developed and created for star companies near and far. Keep track of all the employees that work for your company in a slick, easy to use database, that catalogs crucial employee data. A search bar is included for high-functionality and performance, so as to find employees in an instance. The database even sorts users in ascending and descending order, depending on your desired output. We believe you are going to fall in love with the Employee Stardirectory. Thanks for stopping in!"
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-05.jpg"
+      "image": "./images/project-05-2.jpg"
     },
     {
       "id": "feature-2",

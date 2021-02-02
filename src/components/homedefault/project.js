@@ -36,7 +36,7 @@ const Project = () => {
                 href="https://github.com/MichaelWitt"
                 target="_blank"
               >
-                <span>View All Works</span>
+                <span>Github</span>
               </a>
             </div>
           </div>

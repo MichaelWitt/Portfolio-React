@@ -2,18 +2,18 @@
   "id": "project-06",
   "title": "Wismin Weather",
   "category": "Weather API",
-  "client": "CZ Inc.",
-  "imgesBY": "Michael Wittorp",
+  "client": "Michael Wittorp",
+  "imgesBY": "https://michaelwitt.github.io/wisminweather/",
   "year": "2009 - 2019",
   "featured_image": "./images/project-06.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to Wismin Weather! The best source of weather news in town. Guaranteed! Wismin Weather is a website and application that lets you search and find city weather results instantaneously! Upon entering your desired city, you will be given the temperature, date, humidity, wind speed, UV index, weather icon, and a 5 Day Forecast. This application was built using the Open Weather API, dynamically updated with JavaScript and jQuery, and was stylized and formatted using Bootstrap, CSS, & HTML. The data was collected using 3 ajax requests, written to the HTML using jQuery, and then saved in buttons so that recently searched cities can be found with ease. I hope that you love and make good use of Wismin Weather! Thanks for stopping in! I look forward to working together to make the present and future a better place. Site: https://michaelwitt.github.io/wisminweather/ Github: https://github.com/MichaelWitt/wisminweather"
+    "Welcome to Wismin Weather! The best source of weather news in town. Guaranteed! Wismin Weather is a website and application that lets you search and find city weather results instantaneously! Upon entering your desired city, you will be given the temperature, date, humidity, wind speed, UV index, weather icon, and a 5 Day Forecast. This application was built using the Open Weather API, dynamically updated with JavaScript and jQuery, and was stylized and formatted using Bootstrap, CSS, & HTML. The data was collected using 3 ajax requests, written to the HTML using jQuery, and then saved in buttons so that recently searched cities can be found with ease. I hope that you love and make good use of Wismin Weather! Thanks for stopping in! I look forward to working together to make the present and future a better place."
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-06.jpg"
+      "image": "./images/project-06-2.jpg"
     },
     {
       "id": "feature-2",

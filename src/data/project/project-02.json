@@ -2,18 +2,18 @@
   "id": "project-02",
   "title": "Just Pick",
   "category": "API Food App",
-  "client": "CZ Inc.",
-  "imgesBY": "Michael Wittorp",
+  "client": "Michael Wittorp",
+  "imgesBY": "https://michaelwitt.github.io/Just-Pick/",
   "year": "2009 - 2019",
   "featured_image": "./images/project-02.jpg",
   "is_featured": true,
   "body": [
-    "Have you ever wanted to go out to eat but can't decide what you want for dinner? Just Pick! Just Pick is an application developed to help you decide what restaurant to eat at. Every time you click the button, a random restaurant is generated for you in your local area. Enjoy! App: https://michaelwitt.github.io/Just-Pick/ Github: https://github.com/MichaelWitt/Just-Pick"
+    "Have you ever wanted to go out to eat but can't decide what you want for dinner? Just Pick! Just Pick is an application developed to help you decide what restaurant to eat at. Every time you click the button, a random restaurant is generated for you in your local area. Enjoy!"
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-02.jpg"
+      "image": "./images/project-02-2.jpg"
     },
     {
       "id": "feature-2",

@@ -2,18 +2,18 @@
   "id": "project-03",
   "title": "Staur Database",
   "category": "MySql Database",
-  "client": "CZ Inc.",
-  "imgesBY": "Michael Wittorp",
+  "client": "Michael Wittorp",
+  "imgesBY": "https://youtu.be/E9-dw1bfymo",
   "year": "2009 - 2019",
   "featured_image": "./images/project-03.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to Staur Database! The Staur Database was created to be able to log, manage, and maintain a working roster of your Staur Team, Employees, etc. It is an amazingly simple and efficient way to track who is doing what at your company or super team. This app allows you to view a table of all the current employees, departments, roles, managers, and more! Using node, you can also add new employees, update existing departments, and delete current staur leaders. We hope you enjoy making your own personal database and changing the world for good. Thanks for stopping in! I look forward to working together to make the present and future a better place. Demo: https://youtu.be/E9-dw1bfymo Github: https://github.com/MichaelWitt/Staur-Database"
+    "Welcome to Staur Database! The Staur Database was created to be able to log, manage, and maintain a working roster of your Staur Team, Employees, etc. It is an amazingly simple and efficient way to track who is doing what at your company or super team. This app allows you to view a table of all the current employees, departments, roles, managers, and more! Using node, you can also add new employees, update existing departments, and delete current staur leaders. We hope you enjoy making your own personal database and changing the world for good. Thanks for stopping in! I look forward to working together to make the present and future a better place."
   ],
   "features": [
     {
       "id": "feature-1",
-      "image": "./images/project-03.jpg"
+      "image": "./images/project-03-2.jpg"
     },
     {
       "id": "feature-2",
