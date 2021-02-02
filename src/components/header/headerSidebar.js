@@ -90,14 +90,14 @@ const HeaderNoSidebar = () => {
           <div className="menu_wrapper">
             <Scrollspy
               className="popup_mainmenu"
-              items={["home", "about", "portfolio", "news", "contact"]}
+              items={["home", "about", "portfolio"]}
               currentClassName="is-current"
               offset={-200}
             >
               <li>
                 <a
                   className="menu-hover-link"
-                  href="/#home"
+                  href="#home"
                   onClick={onMenuToggleClick}
                 >
                   <span className="hover-item">
@@ -109,7 +109,7 @@ const HeaderNoSidebar = () => {
               <li>
                 <a
                   className="menu-hover-link"
-                  href="/#about"
+                  href="#about"
                   onClick={onMenuToggleClick}
                 >
                   <span className="hover-item">
@@ -121,7 +121,7 @@ const HeaderNoSidebar = () => {
               <li>
                 <a
                   className="menu-hover-link"
-                  href="/#portfolio"
+                  href="#portfolio"
                   onClick={onMenuToggleClick}
                 >
                   <span className="hover-item">
