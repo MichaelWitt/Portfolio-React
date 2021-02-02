@@ -97,13 +97,13 @@ const Header = () => {
                       </a>
                     </li> */}
 
-                    <li>
+                    {/* <li>
                       <a className="menu-hover-link" href="#contact">
                         <span className="hover-item">
                           <span data-text="Contact">Contact</span>
                         </span>
                       </a>
-                    </li>
+                    </li> */}
                   </Scrollspy>
                 </div>
               </div>

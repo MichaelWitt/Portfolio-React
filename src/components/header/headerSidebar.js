@@ -138,7 +138,7 @@ const HeaderNoSidebar = () => {
                                 </a>
                             </li> */}
 
-              <li>
+              {/* <li>
                 <a
                   className="menu-hover-link"
                   href="/#contact"
@@ -148,7 +148,7 @@ const HeaderNoSidebar = () => {
                     <span data-text="Contact">Contact</span>
                   </span>
                 </a>
-              </li>
+              </li> */}
             </Scrollspy>
           </div>
           <div className="trigger_closer" onClick={onMenuToggleClick}>
