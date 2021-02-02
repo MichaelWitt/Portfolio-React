@@ -1,5 +1,5 @@
 ---
-title: 'As Vintage decided to have a closer look New York'
+title: 'What is the Difference between Web and Brand Design be.'
 date: "2020-02-09 05:00:00"
 author: 'Rainbow'
 format: 'image'
@@ -37,3 +37,5 @@ As Vintage decided to have a closer look into fast-paced New York web design rea
 </div>
 
 <p>As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about. We thought a book is quite a wait away and decided to share some of the notes from his New York business meetings meanwhile. As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about. We thought a book is quite a wait away and decided to share some of the notes from his New York business meetings meanwhile</p>
+<p>As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about. </p>
+<p>As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse We thought a book is quite a wait away and decided to share some of the notes from his New York business meetings meanwhile</p>

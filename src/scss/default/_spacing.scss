@@ -3,9 +3,9 @@
 ==========================*/
 
 .rn-section-gap {
-    padding: 120px 0;
+    padding: 150px 0;
     @media #{$lg-layout} {
-        padding: 120px 0;
+        padding: 150px 0;
     }
     @media #{$md-layout} {
         padding: 80px 0;
@@ -15,6 +15,34 @@
     }
 }
 
+
+.pt--200 {
+    @media #{$lg-layout} {
+        padding-top: 150px !important;
+    }
+    @media #{$md-layout} {
+        padding-top: 80px !important;
+    }
+    @media #{$sm-layout} {
+        padding-top: 80px !important;
+    }
+}
+
+
+.pb--200,
+.pb--110 {
+    @media #{$lg-layout} {
+        padding-bottom: 150px !important;
+    }
+    @media #{$md-layout} {
+        padding-bottom: 80px !important;
+    }
+    @media #{$sm-layout} {
+        padding-bottom: 80px !important;
+    }
+}
+
+
 .mt_dec-100 {
     margin-top: -100px;
 }
@@ -22,7 +50,7 @@
 
 .testimonial-style-1 {
     @media #{$lg-layout} {
-        padding: 120px 0;
+        padding: 150px 0;
     }
     @media #{$md-layout} {
         padding: 80px 0;
@@ -33,9 +61,9 @@
 }
 
 .rn-section-gapTop {
-    padding-top: 120px;
+    padding-top: 150px;
     @media #{$lg-layout} {
-        padding-top: 120px;
+        padding-top: 150px;
     }
     @media #{$md-layout} {
         padding-top: 80px;
@@ -55,9 +83,9 @@
 }
 
 .rn-section-gapBottom {
-    padding-bottom: 120px;
+    padding-bottom: 150px;
     @media #{$lg-layout} {
-        padding-bottom: 120px;
+        padding-bottom: 150px;
     }
     @media #{$md-layout} {
         padding-bottom: 80px;
