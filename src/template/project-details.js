@@ -46,12 +46,11 @@ const ProjectDetails = ({ data }) => {
                               <FiInstagram />
                               App:
                             </span>
-                            <span className="projectinfo">
-                              <a
-                                href="{projectData.imgesBY}"
-                                target="_blank"
-                              ></a>
-                            </span>
+                            <a href={projectData.imgesBY} target="_blank">
+                              <span className="projectinfo">
+                                {projectData.imgesBY}
+                              </span>
+                            </a>
                           </li>
                         </ul>
                         <p className="mt--20">{projectData.body}</p>
