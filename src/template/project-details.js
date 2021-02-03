@@ -47,7 +47,10 @@ const ProjectDetails = ({ data }) => {
                               App:
                             </span>
                             <span className="projectinfo">
-                              {projectData.imgesBY}
+                              <a
+                                href="{projectData.imgesBY}"
+                                target="_blank"
+                              ></a>
                             </span>
                           </li>
                         </ul>
