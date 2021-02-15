@@ -52,6 +52,17 @@ const ProjectDetails = ({ data }) => {
                               </span>
                             </a>
                           </li>
+                          <li>
+                            <span className="icon">
+                              <FiInstagram />
+                              Github:
+                            </span>
+                            <a href={projectData.imgesBY} target="_blank">
+                              <span className="projectinfo">
+                                {projectData.imgesBY2}
+                              </span>
+                            </a>
+                          </li>
                         </ul>
                         <p className="mt--20">{projectData.body}</p>
                       </div>
@@ -89,6 +100,7 @@ export const query = graphql`
       category
       client
       imgesBY
+      imgesBY2
       featured_image {
         childImageSharp {
           fluid(maxHeight: 1000, maxWidth: 1920, quality: 100) {

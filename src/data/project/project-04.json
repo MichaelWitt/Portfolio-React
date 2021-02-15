@@ -4,11 +4,12 @@
   "category": "Node Generator",
   "client": "Michael Wittorp",
   "imgesBY": "https://youtu.be/2O2ftBC3l0E",
+  "imgesBY2": "https://github.com/MichaelWitt/Terbo-Team",
   "year": "2009 - 2019",
   "featured_image": "./images/project-04.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to Terbo-Team! Terbo-Team was created to help you display information about you and your code team! Your code team will help you get through the challenges in life, and should be displayed proudly for everyone to see, as buddies for life! Simply enter the required information for your team, and it will be displayed in a rapidly generated html file. Give it a shot! Thanks for stopping in! I look forward to working together to make the present and future a better place."
+    "Welcome to Terbo-Team! Terbo-Team was created to help you display information about you and your code team! Your code team will help you get through the challenges in life, and should be displayed proudly for everyone to see, as buddies for life! Simply enter the required information for your team, and it will be displayed in a rapidly generated html file. Give it a shot! Built with: Node.js, Inquirer, JavaScript, Testing, HTML, and CSS. Thanks for stopping in! I look forward to working together to make the present and future a better place."
   ],
   "features": [
     {

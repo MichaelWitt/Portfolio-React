@@ -100,7 +100,7 @@ const About = () => {
                       className="rn-button wow fadeInLeft"
                       data-wow-delay="200ms"
                       data-wow-duration="1000ms"
-                      href="https://drive.google.com/file/d/1Xj9r_nkqot0qPXVusLjpBzIQEFUF3P8Z/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1NxOTrzRc19AbWMu1w1HmKJ-fm-JtEOWV/view?usp=sharing"
                       target="_blank"
                     >
                       <span>{downloadButton}</span>

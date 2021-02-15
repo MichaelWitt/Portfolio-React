@@ -4,11 +4,12 @@
   "category": "React Database",
   "client": "Michael Wittorp",
   "imgesBY": "https://michaelwitt.github.io/Employee-Stardirectory/",
+  "imgesBY2": "https://github.com/MichaelWitt/Employee-Stardirectory",
   "year": "2009 - 2019",
   "featured_image": "./images/project-05.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to the Employee Stardirectory! This application was developed and created for star companies near and far. Keep track of all the employees that work for your company in a slick, easy to use database, that catalogs crucial employee data. A search bar is included for high-functionality and performance, so as to find employees in an instance. The database even sorts users in ascending and descending order, depending on your desired output. We believe you are going to fall in love with the Employee Stardirectory. Thanks for stopping in!"
+    "Welcome to the Employee Stardirectory! This application was developed and created for star companies near and far. Keep track of all the employees that work for your company in a slick, easy to use database, that catalogs crucial employee data. A search bar is included for high-functionality and performance, so as to find employees in an instance. The database even sorts users in ascending and descending order, depending on your desired output. We believe you are going to fall in love with the Employee Stardirectory. Built with: React.js, Components, Material-Table, Axios, Bootstrap, JavaScript, Node.js, and the Random User API. Thanks for stopping in!"
   ],
   "features": [
     {

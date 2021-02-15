@@ -4,11 +4,12 @@
   "category": "MySql Database",
   "client": "Michael Wittorp",
   "imgesBY": "https://youtu.be/E9-dw1bfymo",
+  "imgesBY2": "https://github.com/MichaelWitt/Staur-Database",
   "year": "2009 - 2019",
   "featured_image": "./images/project-03.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to Staur Database! The Staur Database was created to be able to log, manage, and maintain a working roster of your Staur Team, Employees, etc. It is an amazingly simple and efficient way to track who is doing what at your company or super team. This app allows you to view a table of all the current employees, departments, roles, managers, and more! Using node, you can also add new employees, update existing departments, and delete current staur leaders. We hope you enjoy making your own personal database and changing the world for good. Thanks for stopping in! I look forward to working together to make the present and future a better place."
+    "Welcome to Staur Database! The Staur Database was created to be able to log, manage, and maintain a working roster of your Staur Team, Employees, etc. It is an amazingly simple and efficient way to track who is doing what at your company or super team. This app allows you to view a table of all the current employees, departments, roles, managers, and more! Using node, you can also add new employees, update existing departments, and delete current staur leaders. We hope you enjoy making your own personal database and changing the world for good. Built with: Node.js, MySql, Inquirer, Figlet, JavaScript. Thanks for stopping in! I look forward to working together to make the present and future a better place."
   ],
   "features": [
     {

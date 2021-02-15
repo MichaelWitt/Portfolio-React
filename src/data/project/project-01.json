@@ -4,11 +4,12 @@
   "category": "JavaScript Game Dev.",
   "client": "Michael Wittorp",
   "imgesBY": "https://code-carnival.herokuapp.com/",
+  "imgesBY2": "https://github.com/MichaelWitt/Code-Carnival",
   "year": "2009 - 2019",
   "featured_image": "./images/project-01.jpg",
   "is_featured": true,
   "body": [
-    "Welcome to the Code Carnival! The Code Carnival is an all-inclusive collection of carnival games, created for all to play, excite, and enjoy. We want you to be immersed in the carnival experience, with games such as pong, blackjack, and the fortune teller, Madame Boolean, all coded for your enjoyment. Extra games were added as well, to the likes of MadLibs, Snake, and more! In doing so, we made use of a database, express server, user authentification, encryption, and game development. We hope you love your time at the carnival. Thanks for stopping in!"
+    "Welcome to the Code Carnival! The Code Carnival is an all-inclusive collection of carnival games, created for all to play, excite, and enjoy. We want you to be immersed in the carnival experience, with games such as pong, blackjack, and the fortune teller, Madame Boolean, all coded for your enjoyment. Extra games were added as well, to the likes of MadLibs, Snake, and more! In doing so, we made use of a database, express server, user authentification, encryption, and game development. We hope you love your time at the carnival. Built with: MySql, JavaScript, Express, Passport, Sequelize, and Phaser.io. Thanks for stopping in!"
   ],
   "features": [
     {
