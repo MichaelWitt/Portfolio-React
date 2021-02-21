@@ -57,7 +57,7 @@ const ProjectDetails = ({ data }) => {
                               <FiInstagram />
                               Github:
                             </span>
-                            <a href={projectData.imgesBY} target="_blank">
+                            <a href={projectData.imgesBY2} target="_blank">
                               <span className="projectinfo">
                                 {projectData.imgesBY2}
                               </span>
